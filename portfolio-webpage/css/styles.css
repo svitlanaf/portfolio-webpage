@@ -1,0 +1,92 @@
+h1 {
+  font-family: "Times New Roman";
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h1.header {
+  color: #722f1a
+}
+
+h2 {
+  font-family: "Times New Roman";
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-family: "Times New Roman";
+  font-size: 26px;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+  font-weight: normal;
+}
+
+p.header {
+
+  font-family: "Times New Roman";
+  font-size: 25px;
+}
+img {
+  float: left;
+  padding: inherit;
+}
+
+ul {
+  font-family: "Times New Roman";
+  font-size: 20px;
+  font-weight: normal;
+}
+
+ol {
+  font-family: "Times New Roman";
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.panel-default {
+  background-color: #fce5de;
+  border-color: #722f1a;
+}
+
+.panel-default1 {
+  background-color: #ffffdb;
+  border-color: #261201;
+}
+
+.panel-default2 {
+  background-color: #e0f3ff;
+  border-color: #0f2533;
+}
+
+.panel-info > .panel-heading {
+    font-family: "Times New Roman";
+    font-size: 25px;
+    font-weight: bold;
+    color: #250644;
+    background-color: #f2e8fc;
+    border-color: #722f1a;
+}
+
+.panel-heading {
+    border-color: #722f1a;
+}
+
+.panel-info {
+    background-color: #f2e8fc;
+    border-color: #722f1a;
+}
+
+p.block {
+  font-family: "Times New Roman";
+  font-size: 23px;
+}
+
+.special {
+  font-family: "Times New Roman";
+  font-weight: bold;
+  font-size: 25px;
+}
