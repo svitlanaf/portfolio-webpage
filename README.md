@@ -8,6 +8,10 @@
 
 _This webpage is about me, my education, background, my interests and my Epicodus projects. This page is done using HTML, CSS and Bootstrap_
 
+## Link to Github pages -
+
+_https://svitlanaf.github.io/portfolio-webpage/portfolio-webpage/_
+
 ## Setup/Installation Requirements
 
 * _Clone the repository._
@@ -24,4 +28,4 @@ _Bootstrap_
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2019 **_Svitlana Filatova**
+Copyright (c) 2019 **Svitlana Filatova**
