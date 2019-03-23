@@ -8,7 +8,7 @@
 
 _This webpage is about me, my education, background, my interests and my Epicodus projects. This page is done using HTML, CSS and Bootstrap_
 
-## Link to Github pages - https://svitlanaf.github.io/portfolio-webpage/portfolio-webpage/ ##
+## Link to Github pages ## - https://svitlanaf.github.io/portfolio-webpage/portfolio-webpage/
 
 ## Setup/Installation Requirements
 
