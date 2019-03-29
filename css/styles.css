@@ -1,3 +1,8 @@
+body {
+  margin: 10px;
+  /* background-color: #f2f5ff; */
+}
+
 h1 {
   font-family: "Times New Roman";
   font-size: 40px;
@@ -48,16 +53,19 @@ ol {
 }
 
 .panel-default {
+  margin: 12px;
   background-color: #fce5de;
   border-color: #722f1a;
 }
 
 .panel-default1 {
+  margin: 12px;
   background-color: #ffffdb;
   border-color: #261201;
 }
 
 .panel-default2 {
+  margin: 12px;
   background-color: #e0f3ff;
   border-color: #0f2533;
 }
@@ -71,11 +79,15 @@ ol {
     border-color: #722f1a;
 }
 
-.panel-heading {
+.panel-title {
     border-color: #722f1a;
+    font-family: "Times New Roman";
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .panel-info {
+  margin: 12px;
     background-color: #f2e8fc;
     border-color: #722f1a;
 }
