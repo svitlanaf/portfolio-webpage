@@ -18,6 +18,14 @@ _https://svitlanaf.github.io/portfolio-webpage/portfolio-webpage/_
 * _Find directory on the desktop and open it._
 * _Find HTML file and open using any web browser._
 
+## Known Bugs
+
+_No bugs were found during testing._
+
+## Support and contact details
+
+_If you find any issue regarding this webpage please contact Svitlana Filatova via email: svitlana.filatova@gmail.com._
+
 ## Technologies Used
 
 _HTML_
