@@ -10,7 +10,7 @@ _This webpage is about me, my education, background, my interests and my Epicodu
 
 ## Link to Github pages -
 
-_https://svitlanaf.github.io/portfolio-webpage/portfolio-webpage/_
+_https://svitlanaf.github.io/portfolio-webpage/_
 
 ## Setup/Installation Requirements
 
